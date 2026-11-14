@@ -1,8 +1,8 @@
 {
- "versionCode": 46,
- "versionName": "1.0.46",
- "apk": "KarzHasanah-1.0.46.apk",
- "sha256": "b8ce9fc38b4e96ef4713e855a17f5d09a32a9cd1d4f0709b2b7e689636ad99d9",
- "notes": "হোমের আরবি লেখা এখন কুরআনি মুসহাফ ফন্টে, কাঁপুনি ছাড়া।",
+ "versionCode": 47,
+ "versionName": "1.0.47",
+ "apk": "KarzHasanah-1.0.47.apk",
+ "sha256": "8721deef7190bb41934209f9eee78209057cfdb3d71c38191dfedaaa4664dec5",
+ "notes": "হোমের হিসাব অংশের নতুন অ্যাপ-ধাঁচের ডিজাইন।",
  "date": "2026-11-14"
 }
