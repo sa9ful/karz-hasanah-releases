@@ -1,8 +1,8 @@
 {
- "versionCode": 47,
- "versionName": "1.0.47",
- "apk": "KarzHasanah-1.0.47.apk",
- "sha256": "8721deef7190bb41934209f9eee78209057cfdb3d71c38191dfedaaa4664dec5",
- "notes": "হোমের হিসাব অংশের নতুন অ্যাপ-ধাঁচের ডিজাইন।",
+ "versionCode": 48,
+ "versionName": "1.0.48",
+ "apk": "KarzHasanah-1.0.48.apk",
+ "sha256": "da0bb4c6045a0fe1761943433f0ab27a2f47111832eb5e7561f7759d505f441d",
+ "notes": "প্রিন্ট ঠিক করা হলো: লম্বা তালিকা এখন পুরো পাতাজুড়ে ছাপা হয়, ডান পাশ কাটে না।",
  "date": "2026-11-14"
 }
