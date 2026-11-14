@@ -1,0 +1,8 @@
+{
+ "versionCode": 35,
+ "versionName": "1.0.35",
+ "apk": "KarzHasanah-1.0.35.apk",
+ "sha256": "c32ab3d57700da040dc8cf19a8155660f82cccebe71fa39155219719fb16475e",
+ "notes": "In-app update: download the latest release inside the app (SHA-256 verified, official repo only) and hand it to Android's installer; builds",
+ "date": "2026-11-14"
+}

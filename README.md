@@ -1,2 +1,3 @@
-# karz-hasanah-releases
-Karz Hasanah app downloads and updates Public বাছুন।
+# করযে হাসানাহ — অ্যাপ ডাউনলোড
+
+সর্বশেষ অ্যাপ: [KarzHasanah-latest.apk](KarzHasanah-latest.apk) (v1.0.35)
