@@ -1,8 +1,8 @@
 {
- "versionCode": 39,
- "versionName": "1.0.39",
- "apk": "KarzHasanah-1.0.39.apk",
- "sha256": "f4b5cd7b3c4bb5741681a35e8438956ac32ec23d36ef545c0c9ed2402f2a0170",
- "notes": "আপডেটের পপআপ আর আসবে না — চাইলে হোমের অ্যাপ আপডেট বাটন থেকে আপডেট করুন।",
+ "versionCode": 40,
+ "versionName": "1.0.40",
+ "apk": "KarzHasanah-1.0.40.apk",
+ "sha256": "927c03de7d0f1d7bb7f0330344aba91de88e3ec326423e04849d15ff549ff7cb",
+ "notes": "হোমে অ্যাপ আপডেট বাটন ও এডমিনের আরও সেবা — এবার সঠিকভাবে যুক্ত হলো।",
  "date": "2026-11-14"
 }
