@@ -1,8 +1,8 @@
 {
- "versionCode": 35,
- "versionName": "1.0.35",
- "apk": "KarzHasanah-1.0.35.apk",
- "sha256": "c32ab3d57700da040dc8cf19a8155660f82cccebe71fa39155219719fb16475e",
- "notes": "In-app update: download the latest release inside the app (SHA-256 verified, official repo only) and hand it to Android's installer; builds",
+ "versionCode": 36,
+ "versionName": "1.0.36",
+ "apk": "KarzHasanah-1.0.36.apk",
+ "sha256": "0d210c0e52be62cf849c9fd074530c9be45ced97ce3ff98ebb81fb96300b85c7",
+ "notes": "অ্যাপের ভেতর থেকেই এক চাপে আপডেট। সেটিংস → অ্যাপ আপডেট।",
  "date": "2026-11-14"
 }
