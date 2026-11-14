@@ -1,8 +1,8 @@
 {
- "versionCode": 51,
- "versionName": "1.0.51",
- "apk": "KarzHasanah-1.0.51.apk",
- "sha256": "346f5c1755cfea83b4fd85c9f1fab7da59a6037210ce0e0065cc3fecd7870538",
- "notes": "হোম পেজে ব্যাক বাটন চাপলে এখন সত্যিই \"অ্যাপ থেকে বের হবেন?\" জিজ্ঞেস করে।",
+ "versionCode": 52,
+ "versionName": "1.0.52",
+ "apk": "KarzHasanah-1.0.52.apk",
+ "sha256": "a73883b737eb049686015bf69ac890c64bad36a78cfc4d9b7be47a339a239d52",
+ "notes": "অ্যাপ থেকে রসিদের PNG ডাউনলোড বা WhatsApp-এ পাঠালে লেখা একটার ওপর আরেকটা বসে যাওয়ার সমস্যা ঠিক করা হয়েছে।",
  "date": "2026-11-14"
 }
