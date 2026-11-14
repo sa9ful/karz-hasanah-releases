@@ -1,8 +1,8 @@
 {
- "versionCode": 50,
- "versionName": "1.0.50",
- "apk": "KarzHasanah-1.0.50.apk",
- "sha256": "e334e9d6e9670e103a062748367c6aaa21ca7c761e5d2c8a838c1b628b44d26e",
- "notes": "হোম পেজে ফোনের ব্যাক বাটন চাপলে এখন \"অ্যাপ থেকে বের হবেন?\" জিজ্ঞেস করে।",
+ "versionCode": 51,
+ "versionName": "1.0.51",
+ "apk": "KarzHasanah-1.0.51.apk",
+ "sha256": "346f5c1755cfea83b4fd85c9f1fab7da59a6037210ce0e0065cc3fecd7870538",
+ "notes": "হোম পেজে ব্যাক বাটন চাপলে এখন সত্যিই \"অ্যাপ থেকে বের হবেন?\" জিজ্ঞেস করে।",
  "date": "2026-11-14"
 }
