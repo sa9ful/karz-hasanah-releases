@@ -1,8 +1,8 @@
 {
- "versionCode": 36,
- "versionName": "1.0.36",
- "apk": "KarzHasanah-1.0.36.apk",
- "sha256": "0d210c0e52be62cf849c9fd074530c9be45ced97ce3ff98ebb81fb96300b85c7",
- "notes": "অ্যাপের ভেতর থেকেই এক চাপে আপডেট। সেটিংস → অ্যাপ আপডেট।",
+ "versionCode": 37,
+ "versionName": "1.0.37",
+ "apk": "KarzHasanah-1.0.37.apk",
+ "sha256": "192789d6489ae473be380f8475ebf3ccb08e5492350055bd2ef0b0fa8a4440a0",
+ "notes": "নতুন খোলার অ্যানিমেশন (সাহায্যের হাত ও ভোরের দৃশ্য), হোমে অ্যাপ আপডেট বাটন, এডমিনের জন্য আরও সেবা।",
  "date": "2026-11-14"
 }
